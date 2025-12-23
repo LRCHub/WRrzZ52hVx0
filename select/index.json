@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "真昼の月明かり",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-23T13:23:29.653282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真昼の月明かり",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/01_真昼の月明かり_Tsukuyomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真昼の月明かり",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_真昼の月明かり_月詠み.txt"
+    }
+  ]
+}
